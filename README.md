@@ -1,0 +1,2 @@
+# Pyxlet
+Introducing Pyxlet, a vibrant and dynamic pixel art and animation tool that's currently in its early stages of development, and we're thrilled to have you on board for the exciting journey ahead! Designed with the spirit of collaboration and community involvement, our pixel art editor is your canvas to unleash your creativity and help shape its future. Join the subreddit [r/pyxlet](https://www.reddit.com/r/pyxlet/) to help the development process.
